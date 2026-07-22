@@ -1,0 +1,36 @@
+:root {
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color: #f2f0e9;
+  background: #11140f;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+
+* { box-sizing: border-box; }
+html { background: #11140f; }
+body { margin: 0; min-width: 320px; min-height: 100vh; }
+a { color: inherit; }
+
+.app-shell { min-height: 100vh; }
+.site-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  padding: 1.25rem 2rem;
+  border-bottom: 1px solid rgba(242, 240, 233, 0.14);
+}
+.brand { font-weight: 700; letter-spacing: 0.14em; text-decoration: none; }
+nav { display: flex; flex-wrap: wrap; gap: 1rem; }
+nav a { color: #aaa99f; font-size: 0.875rem; text-decoration: none; }
+nav a.active, nav a:hover { color: #f2f0e9; }
+.baseline-page { max-width: 76rem; margin: 0 auto; padding: 18vh 2rem 4rem; }
+.eyebrow { color: #a0b98a; font-size: 0.75rem; letter-spacing: 0.18em; }
+h1 { max-width: 12ch; margin: 0.5rem 0 1rem; font-size: clamp(3rem, 9vw, 8rem); line-height: 0.92; }
+.baseline-page > p:last-child { max-width: 42rem; color: #aaa99f; line-height: 1.8; }
+
+@media (max-width: 760px) {
+  .site-header { align-items: flex-start; flex-direction: column; padding: 1rem; }
+  nav { gap: 0.75rem; }
+  .baseline-page { padding: 12vh 1rem 3rem; }
+}

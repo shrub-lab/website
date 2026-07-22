@@ -1,0 +1,240 @@
+{
+  "account": {
+    "name": "名做茶友会",
+    "description": "极具饱和的每一秒，看到就是赚到～ 一见爱上传统文化，欢迎茶友们一起来分享茶知识！",
+    "followers": "231.9万",
+    "likes": "1614.2万",
+    "worksCount": "5",
+    "homepage": "https://v.douyin.com/uE0b1lCT84Y/",
+    "displayHomepage": "v.douyin.com/uE0b1lCT84Y/",
+    "tags": [
+      "茶知识",
+      "传统文化",
+      "茶艺演示",
+      "竖屏短视频",
+      "盖碗冲泡"
+    ],
+    "stats": [
+      [
+        "231.9万",
+        "粉丝"
+      ],
+      [
+        "5",
+        "作品数量"
+      ],
+      [
+        "1614.2万",
+        "点赞量合计"
+      ],
+      [
+        "82天",
+        "运营周期"
+      ]
+    ],
+    "timelineStats": [
+      {
+        "icon": "⏳",
+        "title": "运营周期",
+        "value": "2023/09/26 至 2023/12/16",
+        "note": "共 82 天"
+      },
+      {
+        "icon": "▣",
+        "title": "统计范围",
+        "value": "2023 年内容",
+        "note": "真实资料统计 5 条作品"
+      },
+      {
+        "icon": "▶",
+        "title": "内容形式",
+        "value": "竖屏短视频",
+        "note": "茶知识和茶艺演示"
+      },
+      {
+        "icon": "✦",
+        "title": "内容方向",
+        "value": "茶知识 / 传统文化",
+        "note": "把茶艺动作可视化"
+      },
+      {
+        "icon": "◎",
+        "title": "关键词",
+        "value": "冲泡 / 注水 / 盖碗 / 茶道 / 茶叶",
+        "note": "高饱和画面记忆点"
+      }
+    ]
+  },
+  "videos": [
+    {
+      "title": "红茶、绿茶、乌龙茶",
+      "date": "2023/09/26",
+      "views": "128.6万",
+      "likes": "286.4万",
+      "category": "茶知识",
+      "duration": "竖屏",
+      "cover": "../assets/deployed-extracted/39e98dc649c0cb31.webp",
+      "objectPosition": "center",
+      "keywords": [
+        "红茶",
+        "绿茶",
+        "乌龙茶",
+        "茶叶分类"
+      ],
+      "description": "用三组茶叶在水中的状态建立直观对比，让红茶、绿茶、乌龙茶的差异先被看见。"
+    },
+    {
+      "title": "定点注水时",
+      "date": "2023/10/08",
+      "views": "96.3万",
+      "likes": "214.7万",
+      "category": "茶艺演示",
+      "duration": "竖屏",
+      "cover": "../assets/deployed-extracted/36591cff641b9e5e.webp",
+      "objectPosition": "center",
+      "keywords": [
+        "定点注水",
+        "盖碗",
+        "冲泡动作",
+        "茶艺细节"
+      ],
+      "description": "把注水位置、出水角度和盖碗高度做成可视化标记。"
+    },
+    {
+      "title": "春风拂面",
+      "date": "2023/10/22",
+      "views": "87.4万",
+      "likes": "189.3万",
+      "category": "茶艺表达",
+      "duration": "竖屏",
+      "cover": "../assets/deployed-extracted/ce0e76470e8c211b.webp",
+      "objectPosition": "center",
+      "keywords": [
+        "春风拂面",
+        "盖碗",
+        "茶香",
+        "动作命名"
+      ],
+      "description": "用诗意命名包装茶艺动作，把冲泡过程变成更容易记住的画面语言。"
+    },
+    {
+      "title": "从上方投入后的缓慢下沉",
+      "date": "2023/11/05",
+      "views": "74.1万",
+      "likes": "162.8万",
+      "category": "茶知识",
+      "duration": "竖屏",
+      "cover": "../assets/deployed-extracted/2cef96b782b25ded.webp",
+      "objectPosition": "center",
+      "keywords": [
+        "投茶",
+        "下沉",
+        "70%",
+        "茶叶状态"
+      ],
+      "description": "用玻璃杯、比例标记和茶叶下沉过程，让投茶状态变成视觉实验。"
+    },
+    {
+      "title": "刮沫：再将碗盖一圈",
+      "date": "2023/12/16",
+      "views": "63.2万",
+      "likes": "120.9万",
+      "category": "茶艺演示",
+      "duration": "竖屏",
+      "cover": "../assets/deployed-extracted/09f219eea289483f.webp",
+      "objectPosition": "center",
+      "keywords": [
+        "刮沫",
+        "碗盖",
+        "茶汤",
+        "盖碗动作"
+      ],
+      "description": "将盖碗绕圈、刮沫和出汤前的手部动作放大。"
+    },
+    {
+      "title": "茶道",
+      "date": "作品展示",
+      "views": "封面窗口",
+      "likes": "扩展展示",
+      "category": "茶文化",
+      "duration": "竖屏",
+      "cover": "../assets/deployed-extracted/85f14e90d804a688.webp",
+      "objectPosition": "center",
+      "keywords": [
+        "茶道",
+        "盖碗",
+        "传统文化",
+        "动作美学"
+      ],
+      "description": "用茶具、手部动作和书法标题形成茶文化短视频封面。"
+    },
+    {
+      "title": "围棋",
+      "date": "作品展示",
+      "views": "封面窗口",
+      "likes": "扩展展示",
+      "category": "传统文化",
+      "duration": "竖屏",
+      "cover": "../assets/deployed-extracted/040ee3b76b886ada.webp",
+      "objectPosition": "center",
+      "keywords": [
+        "围棋",
+        "棋盘",
+        "东方美学",
+        "传统技艺"
+      ],
+      "description": "用棋盘与手部动作呈现传统文化中的秩序感。"
+    },
+    {
+      "title": "京剧",
+      "date": "作品展示",
+      "views": "封面窗口",
+      "likes": "扩展展示",
+      "category": "传统文化",
+      "duration": "竖屏",
+      "cover": "../assets/deployed-extracted/3248ea66b19d491c.webp",
+      "objectPosition": "center",
+      "keywords": [
+        "京剧",
+        "戏曲",
+        "服饰",
+        "舞台"
+      ],
+      "description": "以戏曲人物和舞台色彩强化中国传统文化的视觉传播。"
+    },
+    {
+      "title": "龙舞",
+      "date": "作品展示",
+      "views": "封面窗口",
+      "likes": "扩展展示",
+      "category": "民俗影像",
+      "duration": "竖屏",
+      "cover": "../assets/deployed-extracted/560c6472ef815019.webp",
+      "objectPosition": "center",
+      "keywords": [
+        "龙舞",
+        "民俗",
+        "节庆",
+        "传统表演"
+      ],
+      "description": "用龙舞的动作和色彩呈现民俗文化的现场感。"
+    },
+    {
+      "title": "汉服",
+      "date": "作品展示",
+      "views": "封面窗口",
+      "likes": "扩展展示",
+      "category": "传统服饰",
+      "duration": "竖屏",
+      "cover": "../assets/deployed-extracted/63be546446e5491b.webp",
+      "objectPosition": "center",
+      "keywords": [
+        "汉服",
+        "礼仪",
+        "服饰",
+        "传统审美"
+      ],
+      "description": "用汉服人物造型和场景灯光呈现东方审美。"
+    }
+  ]
+}

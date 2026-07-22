@@ -1,0 +1,74 @@
+[
+  {
+    "name": "名做茶友会",
+    "abbr": "茶",
+    "link": "https://v.douyin.com/uE0b1lCT84Y/",
+    "fans": "231.9万",
+    "summary": "极具饱和的每一秒，看到就是赚到。让人一见爱上传统文化，欢迎茶友们一起分享茶知识。",
+    "position": "茶文化 / 美食创意 / 国风影像",
+    "period": "2023-09-26 至 2023-12-16",
+    "days": "82 天",
+    "works": "5",
+    "likes": "1614.2万",
+    "tags": [
+      "茶文化",
+      "美食",
+      "国风美学"
+    ],
+    "cover": "../assets/deployed-extracted/d5597f6f133eb260.webp"
+  },
+  {
+    "name": "国粹儿",
+    "abbr": "粹",
+    "link": "https://v.douyin.com/zxemAImfpPQ/",
+    "fans": "183.2万",
+    "summary": "让文化插上科技的翅膀。与过去对话，与现在结合。",
+    "position": "国粹演绎 / 非遗技艺 / 科技视觉",
+    "period": "2024-03-23 至 2024-06-15",
+    "days": "85 天",
+    "works": "6",
+    "likes": "1502.2万",
+    "tags": [
+      "非遗技艺",
+      "国风美学",
+      "科技AI"
+    ],
+    "cover": "../assets/deployed-extracted/3248ea66b19d491c.webp"
+  },
+  {
+    "name": "丝路",
+    "abbr": "丝",
+    "link": "https://v.douyin.com/yM3Eo1lhUn4/",
+    "fans": "21.1万",
+    "summary": "全是细糠。用短视频把国风、器乐、服饰与传统美学重新装进当代场景。",
+    "position": "国风美学 / 才艺演绎 / 东方审美",
+    "period": "2024-10-05 至 2025-02-08",
+    "days": "126 天",
+    "works": "7",
+    "likes": "427.6万",
+    "tags": [
+      "才艺",
+      "国风美学",
+      "非遗技艺"
+    ],
+    "cover": "../assets/deployed-extracted/d30ea86459979c42.webp"
+  },
+  {
+    "name": "灌木新媒体实验室",
+    "abbr": "灌",
+    "link": "https://v.douyin.com/JrixJvptUjw/",
+    "fans": "75",
+    "summary": "用新媒体方法拆解文化内容，把创意、视觉、技术和传播路径放在同一个实验台。",
+    "position": "内容实验 / 文化传播 / 科技AI",
+    "period": "2025年10月 至今",
+    "days": "持续更新",
+    "works": "暂无合计",
+    "likes": "暂无合计",
+    "tags": [
+      "科技AI",
+      "内容实验",
+      "文化传播"
+    ],
+    "cover": "../assets/deployed-extracted/cea6dc3303a87c08.webp"
+  }
+]

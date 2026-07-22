@@ -1,0 +1,219 @@
+[
+  {
+    "file": "assets/original-rendered-scenes/第一组 (1).png",
+    "bytes": 1528986,
+    "width": 1086,
+    "height": 1448,
+    "sha256": "5f82feb85557e790e311f28b4b7e4b5acb61bb255e3bc09e8ee438e6d1f4d8ba"
+  },
+  {
+    "file": "assets/original-rendered-scenes/第一组 (2).png",
+    "bytes": 1453416,
+    "width": 1448,
+    "height": 1086,
+    "sha256": "be168ed03d07ef1f2466f6b858e7c3a873b4b7e952999d757d20aa8bf7468658"
+  },
+  {
+    "file": "assets/original-rendered-scenes/第一组 (3).png",
+    "bytes": 1057000,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "3c20af235fa15208814e6327da2b6257887f7b6b1761226ab3c93c3a59782f97"
+  },
+  {
+    "file": "assets/original-rendered-scenes/第一组 (4).png",
+    "bytes": 1151716,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "141c14fabb4ba627f92830378c248416e1d747db8b34c40a7fa265a388795b63"
+  },
+  {
+    "file": "assets/original-rendered-scenes/第一组 (5).png",
+    "bytes": 1316168,
+    "width": 1536,
+    "height": 1024,
+    "sha256": "63428cee15e750b53d2335aadb323cb13a8a74681478512213d10bea5be4f9a3"
+  },
+  {
+    "file": "assets/original-rendered-scenes/第一组 (6).png",
+    "bytes": 1369536,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "f4a43e909619bcbdad23bc9b4ad82ade4b53a43150f0e03c9da31d8dcf581daa"
+  },
+  {
+    "file": "assets/original-rendered-scenes/第一组 (7).png",
+    "bytes": 1270895,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "e3348b203f5af202d8a7b5706c2f40ac22c44073a2285b33c6137ecd2cacdafe"
+  },
+  {
+    "file": "assets/original-rendered-scenes/第一组 (8).png",
+    "bytes": 1073025,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "bae9729eb1c1cd29bc688474cd697a21f103f632562092c256d37041d79732c1"
+  },
+  {
+    "file": "assets/original-rendered-scenes/冷泡茶 (1).png",
+    "bytes": 1287789,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "f7a83c54d236c181ae398561ec2bdd4ca3dedbba4b49d5207b1f8bb553787ce7"
+  },
+  {
+    "file": "assets/original-rendered-scenes/冷泡茶 (2).png",
+    "bytes": 800770,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "a99c86e140d977cd53b7173dd2420f8962baece81aa63cbfcd02eb31acdd29a9"
+  },
+  {
+    "file": "assets/original-rendered-scenes/冷泡茶 (3).png",
+    "bytes": 1134082,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "d0094a62ca45a3fa564097d8eb4f4a446d9b9ddf195bfd74b811c5db939b79e9"
+  },
+  {
+    "file": "assets/original-rendered-scenes/冷泡茶 (4).png",
+    "bytes": 1514153,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "8c138b92b2b955da52134b4571e3e8aa7e57300c6b4214802dc7998ae56e4259"
+  },
+  {
+    "file": "assets/original-rendered-scenes/冷泡茶 (5).png",
+    "bytes": 1530282,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "89eb86772b6ab468a736dc84f0ec1ec918b2fbc8ce764bad37c75e6425c5830f"
+  },
+  {
+    "file": "assets/original-rendered-scenes/冷泡茶 (6).png",
+    "bytes": 1323289,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "e792637c25f2e31443340e16d7fe20d774530337d5553b05ee61b48a6d072057"
+  },
+  {
+    "file": "assets/original-rendered-scenes/冷泡茶 (7).png",
+    "bytes": 1489252,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "1ead19bf0f787255e65d8622e825d8928c16a9a979c03bf0757406eddfa5e79a"
+  },
+  {
+    "file": "assets/original-rendered-scenes/冷泡茶 (8).png",
+    "bytes": 1275173,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "2c0509941641c280cfe2eb52c2a249540c997b6aeffdd8c0271f64265b5ab869"
+  },
+  {
+    "file": "assets/original-rendered-scenes/摩卡 (1).png",
+    "bytes": 834015,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "8810e912efa9f76dfb9fdb71f8395f6fd495af8b9a4258a7052e766579ee0de3"
+  },
+  {
+    "file": "assets/original-rendered-scenes/摩卡 (2).png",
+    "bytes": 1533079,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "47a943ec3a2f1d86e14be52924a13d71a5937e3dc9ed67c4b1752fd8d7e35458"
+  },
+  {
+    "file": "assets/original-rendered-scenes/摩卡 (3).png",
+    "bytes": 1544334,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "cb5d54dfca29f0884c58db62002cea842afc689d1e5b6dfd39cc176a038a8c15"
+  },
+  {
+    "file": "assets/original-rendered-scenes/摩卡 (4).png",
+    "bytes": 1472564,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "976ec1541173af43e8e9219bb40489e3222e5124b4539b5c85b38289057f36a8"
+  },
+  {
+    "file": "assets/original-rendered-scenes/摩卡 (5).png",
+    "bytes": 1672229,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "46de7f48a664bc49b430b69f784dd4c129ca1a52d176e8d48256b1d82b31395c"
+  },
+  {
+    "file": "assets/original-rendered-scenes/摩卡 (6).png",
+    "bytes": 1328642,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "72025d8f6d6489420ac6ea499bc948882c793d1fc06b2d936d2417728f724d3c"
+  },
+  {
+    "file": "assets/original-rendered-scenes/摩卡 (7).png",
+    "bytes": 1550283,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "3fd7a09aeacc1739a617bd537885d16736de13c9791dce65c33e59d0d5aff062"
+  },
+  {
+    "file": "assets/original-rendered-scenes/摩卡 (8).png",
+    "bytes": 1435292,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "57c6700ce2b1a2ed353360b0b6c2d3d200e111d28304593f827fb97c0e47e1f7"
+  },
+  {
+    "file": "assets/original-rendered-scenes/双皮奶 (1).png",
+    "bytes": 1672602,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "cf5c22582edfc4409bb6ae3c7e96f1db54b0f6d0bb47aeff41b833b943e3b161"
+  },
+  {
+    "file": "assets/original-rendered-scenes/双皮奶 (2).png",
+    "bytes": 835320,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "b15eb1803ba71e29d5e83724bb72ca6f84b5cee83b5d5aaba387f6242d869271"
+  },
+  {
+    "file": "assets/original-rendered-scenes/双皮奶 (3).png",
+    "bytes": 1765017,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "0db686bea66ec87c6c9062175f7d5ceabe11a3103681d456eea9bf16828e03ca"
+  },
+  {
+    "file": "assets/original-rendered-scenes/双皮奶 (4).png",
+    "bytes": 1131331,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "c89978b5929616bebf497789c356653c8a3187a75000645c06f3c01452657a57"
+  },
+  {
+    "file": "assets/original-rendered-scenes/双皮奶 (5).png",
+    "bytes": 2121948,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "187e7ff5620acc5f199b7986a1ff4888dbd4bf0eeeebb429b6e16c62ab38ef6b"
+  },
+  {
+    "file": "assets/original-rendered-scenes/双皮奶 (6).png",
+    "bytes": 1866494,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "e031eb2b5a00085434f2cad9aaeebbabef2768adb1a15191f7f3b755ea3f68ef"
+  },
+  {
+    "file": "assets/original-rendered-scenes/双皮奶 (7).png",
+    "bytes": 1769147,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "0c18d7eaa9113217ba93c4f7df5f0e5dc652c86c7e07893b5e5b12033c4a2837"
+  }
+]

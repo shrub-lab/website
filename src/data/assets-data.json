@@ -1,0 +1,618 @@
+{
+  "groups": {
+    "script-templates": {
+      "name": "脚本模板",
+      "abbr": "脚本",
+      "count": "6个模板",
+      "desc": "脚本结构、采访清单、复盘框架。"
+    },
+    "shot-library": {
+      "name": "镜头库",
+      "abbr": "镜头",
+      "count": "8个镜头",
+      "desc": "拍摄、剪辑、转场和画面收束镜头。"
+    },
+    "prompt-library": {
+      "name": "Prompt库",
+      "abbr": "Pr",
+      "count": "6个Prompt",
+      "desc": "生成、分析、审查提示词。"
+    },
+    "ae-projects": {
+      "name": "AE工程",
+      "abbr": "AE",
+      "count": "8个工程",
+      "desc": "包装模板、动效工程与可复用工程。"
+    },
+    "ai-content": {
+      "name": "AI内容库",
+      "abbr": "AI",
+      "count": "8个内容",
+      "desc": "AI图像、视频、海报和发布物料。"
+    },
+    "models-3d": {
+      "name": "3D模型",
+      "abbr": "3D",
+      "count": "214个模型",
+      "desc": "GLB / OBJ / FBX 等模型入口。"
+    },
+    "material-textures": {
+      "name": "材质贴图",
+      "abbr": "材质",
+      "count": "8个贴图",
+      "desc": "木纹、苔藓、金属、纸张等材质。"
+    },
+    "music-sfx": {
+      "name": "音乐音效",
+      "abbr": "音频",
+      "count": "6个音频",
+      "desc": "配乐、音效、氛围声。"
+    },
+    "more-resources": {
+      "name": "更多资源",
+      "abbr": "＋",
+      "count": "持续更新",
+      "desc": "模板、方法和外部参考入口。"
+    }
+  },
+  "items": [
+    {
+      "route": "script-templates",
+      "type": "模板",
+      "title": "爆款短视频脚本",
+      "desc": "Hook / 冲突 / 反转 / 结尾行动，适合小红书、视频号、抖音。",
+      "format": "TXT / DOCX",
+      "usage": "内容策划",
+      "path": "/script-templates/01-爆款短视频脚本"
+    },
+    {
+      "route": "script-templates",
+      "type": "短视频",
+      "title": "AI科普脚本",
+      "desc": "用生活化比喻解释大模型、工作流、本地部署等概念。",
+      "format": "TXT",
+      "usage": "AI科普",
+      "path": "/script-templates/02-AI科普脚本"
+    },
+    {
+      "route": "script-templates",
+      "type": "短视频",
+      "title": "城市文旅脚本",
+      "desc": "城市气质、人物动作、街区场景、地标细节四段式结构。",
+      "format": "TXT",
+      "usage": "文旅内容",
+      "path": "/script-templates/03-城市文旅脚本"
+    },
+    {
+      "route": "script-templates",
+      "type": "模板",
+      "title": "发布会开场脚本",
+      "desc": "用于产品、电影、IP项目的开场介绍与核心卖点铺垫。",
+      "format": "TXT / PPT",
+      "usage": "发布会",
+      "path": "/script-templates/04-发布会开场脚本"
+    },
+    {
+      "route": "script-templates",
+      "type": "模板",
+      "title": "采访问题清单",
+      "desc": "按人物背景、关键事件、冲突细节、金句追问组织。",
+      "format": "XLSX / TXT",
+      "usage": "采访",
+      "path": "/script-templates/05-采访问题清单"
+    },
+    {
+      "route": "script-templates",
+      "type": "复盘",
+      "title": "复盘分析模板",
+      "desc": "从数据、内容、评论、转化、选题五个角度复盘。",
+      "format": "HTML / TXT",
+      "usage": "运营复盘",
+      "path": "/script-templates/06-复盘分析模板"
+    },
+    {
+      "route": "shot-library",
+      "type": "物件",
+      "title": "俯拍物件建立",
+      "desc": "适合桌面、产品、道具、材料铺陈，快速交代环境。",
+      "format": "MP4 / MOV",
+      "usage": "开场建立",
+      "path": "/shot-library/01-俯拍物件建立"
+    },
+    {
+      "route": "shot-library",
+      "type": "空间",
+      "title": "推轨进入主体",
+      "desc": "镜头缓慢靠近主体，让注意力从环境收束到信息点。",
+      "format": "MP4",
+      "usage": "空间进入",
+      "path": "/shot-library/02-推轨进入主体"
+    },
+    {
+      "route": "shot-library",
+      "type": "人物",
+      "title": "手部操作特写",
+      "desc": "强调真实使用动作，适合教程、工具、产品流程。",
+      "format": "MP4",
+      "usage": "操作说明",
+      "path": "/shot-library/03-手部操作特写"
+    },
+    {
+      "route": "shot-library",
+      "type": "空间",
+      "title": "空间建立镜头",
+      "desc": "用远景和边缘留白交代场景尺度，增强网页主视觉空间感。",
+      "format": "MP4",
+      "usage": "主视觉",
+      "path": "/shot-library/04-空间建立镜头"
+    },
+    {
+      "route": "shot-library",
+      "type": "镜头",
+      "title": "快速切换蒙太奇",
+      "desc": "用于信息密集段落，制造节奏推进和资料量感。",
+      "format": "PR / MP4",
+      "usage": "剪辑节奏",
+      "path": "/shot-library/05-快速切换蒙太奇"
+    },
+    {
+      "route": "shot-library",
+      "type": "空间",
+      "title": "主观视角穿行",
+      "desc": "模拟观众进入页面或空间，适合沉浸式讲解。",
+      "format": "MP4",
+      "usage": "体验演示",
+      "path": "/shot-library/06-主观视角穿行"
+    },
+    {
+      "route": "shot-library",
+      "type": "人物",
+      "title": "侧逆光人物",
+      "desc": "人物保持低存在感，强调轮廓、动作和环境氛围。",
+      "format": "MP4",
+      "usage": "人物氛围",
+      "path": "/shot-library/07-侧逆光人物"
+    },
+    {
+      "route": "shot-library",
+      "type": "镜头",
+      "title": "结尾留白镜头",
+      "desc": "画面停顿，给标题、Logo、水印或结论留出位置。",
+      "format": "MP4",
+      "usage": "结尾收束",
+      "path": "/shot-library/08-结尾留白镜头"
+    },
+    {
+      "route": "prompt-library",
+      "type": "图像",
+      "title": "图片风格统一",
+      "desc": "统一画面材质、光线、阴影、色温与镜头距离。",
+      "format": "MD / TXT",
+      "usage": "图像生成",
+      "path": "/prompt-library/01-图片风格统一"
+    },
+    {
+      "route": "prompt-library",
+      "type": "图像",
+      "title": "角色一致性",
+      "desc": "锁定人物比例、服装、表情、动作和多图连续性。",
+      "format": "MD",
+      "usage": "角色资产",
+      "path": "/prompt-library/02-角色一致性"
+    },
+    {
+      "route": "prompt-library",
+      "type": "网页",
+      "title": "网页复刻分析",
+      "desc": "拆解网页结构、布局、字体、间距、动效和响应式逻辑。",
+      "format": "MD",
+      "usage": "网页开发",
+      "path": "/prompt-library/03-网页复刻分析"
+    },
+    {
+      "route": "prompt-library",
+      "type": "审查",
+      "title": "脚本审查提示词",
+      "desc": "从观众理解、节奏、信息密度、可拍性四层检查。",
+      "format": "MD",
+      "usage": "内容审查",
+      "path": "/prompt-library/04-脚本审查提示词"
+    },
+    {
+      "route": "prompt-library",
+      "type": "Prompt",
+      "title": "分镜拆解提示词",
+      "desc": "把视频拆成镜头、动作、景别、时长、转场和素材清单。",
+      "format": "MD",
+      "usage": "视频前期",
+      "path": "/prompt-library/05-分镜拆解提示词"
+    },
+    {
+      "route": "prompt-library",
+      "type": "图像",
+      "title": "去AI感修复",
+      "desc": "识别涂抹、脏感、比例错乱、光线不统一等问题。",
+      "format": "MD",
+      "usage": "视觉质检",
+      "path": "/prompt-library/06-去AI感修复"
+    },
+    {
+      "route": "ae-projects",
+      "type": "标题",
+      "title": "Logo极简出场",
+      "desc": "品牌标识从细线描边到实心呈现，适合片头。",
+      "format": "AEP",
+      "usage": "品牌片头",
+      "path": "/ae-projects/01-Logo极简出场"
+    },
+    {
+      "route": "ae-projects",
+      "type": "标题",
+      "title": "标题浮现模板",
+      "desc": "大标题、英文副标题、注释信息分层淡入。",
+      "format": "AEP / JSON",
+      "usage": "网页主视觉",
+      "path": "/ae-projects/02-标题浮现模板"
+    },
+    {
+      "route": "ae-projects",
+      "type": "信息条",
+      "title": "底部信息条模板",
+      "desc": "用于人物名牌、数据注释、账号信息和采访字幕。",
+      "format": "AEP",
+      "usage": "信息标注",
+      "path": "/ae-projects/03-底部信息条模板"
+    },
+    {
+      "route": "ae-projects",
+      "type": "AE",
+      "title": "卡片翻转展示",
+      "desc": "封面卡片向上弹起，底部信息延迟出现。",
+      "format": "AEP",
+      "usage": "内容卡片",
+      "path": "/ae-projects/04-卡片翻转展示"
+    },
+    {
+      "route": "ae-projects",
+      "type": "转场",
+      "title": "粒子扩散转场",
+      "desc": "素材从中心扩散，适合科技、AI、数据主题。",
+      "format": "AEP",
+      "usage": "段落转场",
+      "path": "/ae-projects/05-粒子扩散转场"
+    },
+    {
+      "route": "ae-projects",
+      "type": "AE",
+      "title": "时间轴展开",
+      "desc": "作品历程按时间点展开，适合账号复盘页。",
+      "format": "AEP",
+      "usage": "历程展示",
+      "path": "/ae-projects/06-时间轴展开"
+    },
+    {
+      "route": "ae-projects",
+      "type": "信息条",
+      "title": "字幕节奏模板",
+      "desc": "短句字幕逐条出现，控制单句长度和停留节奏。",
+      "format": "MOGRT / AEP",
+      "usage": "短视频字幕",
+      "path": "/ae-projects/07-字幕节奏模板"
+    },
+    {
+      "route": "ae-projects",
+      "type": "转场",
+      "title": "柔和遮罩转场包",
+      "desc": "用模糊、透明、位移组合完成低声量过渡。",
+      "format": "AEP",
+      "usage": "网页动效",
+      "path": "/ae-projects/08-柔和遮罩转场包"
+    },
+    {
+      "route": "ai-content",
+      "type": "视频",
+      "title": "AIGC科普短片",
+      "desc": "面向普通观众解释 AI 视频、模型、算力和工作流。",
+      "format": "MP4 / TXT",
+      "usage": "科普内容",
+      "path": "/ai-content/01-AIGC科普短片"
+    },
+    {
+      "route": "ai-content",
+      "type": "视频",
+      "title": "AI动画测试",
+      "desc": "记录角色动作、物理效果、镜头稳定性和失败版本。",
+      "format": "MP4",
+      "usage": "动画测试",
+      "path": "/ai-content/02-AI动画测试"
+    },
+    {
+      "route": "ai-content",
+      "type": "图片",
+      "title": "角色设定稿",
+      "desc": "统一角色正面、侧面、表情、服装和道具。",
+      "format": "PNG / JSON",
+      "usage": "角色资产",
+      "path": "/ai-content/03-角色设定稿"
+    },
+    {
+      "route": "ai-content",
+      "type": "图片",
+      "title": "图文卡片生成",
+      "desc": "用于小红书、公众号、网站封面和内容摘要。",
+      "format": "PNG / HTML",
+      "usage": "图文排版",
+      "path": "/ai-content/04-图文卡片生成"
+    },
+    {
+      "route": "ai-content",
+      "type": "图片",
+      "title": "网页主视觉",
+      "desc": "扩散光、白墙、磨砂材质等网页背景实验。",
+      "format": "PNG",
+      "usage": "网页视觉",
+      "path": "/ai-content/05-网页主视觉"
+    },
+    {
+      "route": "ai-content",
+      "type": "图片",
+      "title": "视频分镜草稿",
+      "desc": "AI生成分镜图、镜头动作说明和剪辑节奏草稿。",
+      "format": "PNG / TXT",
+      "usage": "视频前期",
+      "path": "/ai-content/06-视频分镜草稿"
+    },
+    {
+      "route": "ai-content",
+      "type": "文本",
+      "title": "音频转写整理",
+      "desc": "播客、会议、语音灵感的结构化记录。",
+      "format": "TXT / HTML",
+      "usage": "信息整理",
+      "path": "/ai-content/07-音频转写整理"
+    },
+    {
+      "route": "ai-content",
+      "type": "AI内容",
+      "title": "发布会物料",
+      "desc": "发布会海报、倒计时、标题页、幕后故事卡片。",
+      "format": "PNG / PPT",
+      "usage": "活动传播",
+      "path": "/ai-content/08-发布会物料"
+    },
+    {
+      "route": "models-3d",
+      "type": "自然",
+      "title": "枯木模型组",
+      "desc": "两根枯木独立模型，可用于自然场景和网页交互。",
+      "format": "GLB",
+      "usage": "网页三维",
+      "path": "/models-3d/01-枯木模型组"
+    },
+    {
+      "route": "models-3d",
+      "type": "自然",
+      "title": "苔藓覆盖层",
+      "desc": "贴合木材表面的低面数苔藓模型。",
+      "format": "GLB / PNG",
+      "usage": "自然细节",
+      "path": "/models-3d/02-苔藓覆盖层"
+    },
+    {
+      "route": "models-3d",
+      "type": "器物",
+      "title": "桌面设备组",
+      "desc": "桌椅、电脑、键盘、灯具等办公空间模型。",
+      "format": "GLB",
+      "usage": "空间搭建",
+      "path": "/models-3d/03-桌面设备组"
+    },
+    {
+      "route": "models-3d",
+      "type": "空间",
+      "title": "展厅白盒空间",
+      "desc": "用于主视觉、发布会、作品展示的极简空间。",
+      "format": "GLB",
+      "usage": "展示空间",
+      "path": "/models-3d/04-展厅白盒空间"
+    },
+    {
+      "route": "models-3d",
+      "type": "器物",
+      "title": "茶具器物组",
+      "desc": "紫砂壶、茶杯、茶盘、茶叶堆等单体模型。",
+      "format": "OBJ / GLB",
+      "usage": "账号资产",
+      "path": "/models-3d/05-茶具器物组"
+    },
+    {
+      "route": "models-3d",
+      "type": "空间",
+      "title": "城市抽象块面",
+      "desc": "建筑群、道路线、光带和体块组合模型。",
+      "format": "GLB",
+      "usage": "城市视觉",
+      "path": "/models-3d/06-城市抽象块面"
+    },
+    {
+      "route": "models-3d",
+      "type": "自然",
+      "title": "低模植物组",
+      "desc": "灌木、草丛、枝叶和地面碎屑组合。",
+      "format": "GLB",
+      "usage": "环境搭建",
+      "path": "/models-3d/07-低模植物组"
+    },
+    {
+      "route": "models-3d",
+      "type": "空间",
+      "title": "透明亚克力板",
+      "desc": "网页材质感空间层，适合叠加光影。",
+      "format": "GLB",
+      "usage": "材质实验",
+      "path": "/models-3d/08-透明亚克力板"
+    },
+    {
+      "route": "material-textures",
+      "type": "透明",
+      "title": "磨砂玻璃导航栏",
+      "desc": "半透明导航栏材质，适合复杂背景上保持文字清晰。",
+      "format": "CSS / PNG",
+      "usage": "网页导航",
+      "path": "/material-textures/01-磨砂玻璃导航栏"
+    },
+    {
+      "route": "material-textures",
+      "type": "白色",
+      "title": "雾面白墙底纹",
+      "desc": "白色空间中保留微弱灰度层次，避免纯白空洞。",
+      "format": "PNG",
+      "usage": "主视觉背景",
+      "path": "/material-textures/02-雾面白墙底纹"
+    },
+    {
+      "route": "material-textures",
+      "type": "白色",
+      "title": "银灰扩散光",
+      "desc": "冷静、干净、低饱和的光晕渐变材质。",
+      "format": "PNG / CSS",
+      "usage": "网页背景",
+      "path": "/material-textures/03-银灰扩散光"
+    },
+    {
+      "route": "material-textures",
+      "type": "材质",
+      "title": "细噪点纸感",
+      "desc": "用于图文长页，增加轻微纸面颗粒。",
+      "format": "PNG",
+      "usage": "排版底纹",
+      "path": "/material-textures/04-细噪点纸感"
+    },
+    {
+      "route": "material-textures",
+      "type": "深色",
+      "title": "黑钛金属面",
+      "desc": "深色模式下的暗面材质，适合卡片和按钮。",
+      "format": "PNG / CSS",
+      "usage": "深色UI",
+      "path": "/material-textures/05-黑钛金属面"
+    },
+    {
+      "route": "material-textures",
+      "type": "透明",
+      "title": "半透明胶囊按钮",
+      "desc": "适合导航、标签、筛选器和账号主页按钮。",
+      "format": "CSS",
+      "usage": "按钮组件",
+      "path": "/material-textures/06-半透明胶囊按钮"
+    },
+    {
+      "route": "material-textures",
+      "type": "材质",
+      "title": "柔光阴影层",
+      "desc": "控制卡片悬浮感，阴影弱、边界清楚。",
+      "format": "CSS",
+      "usage": "卡片系统",
+      "path": "/material-textures/07-柔光阴影层"
+    },
+    {
+      "route": "material-textures",
+      "type": "透明",
+      "title": "亚克力遮罩纹理",
+      "desc": "用于主视觉前景图层，制造空间深度。",
+      "format": "PNG",
+      "usage": "空间叠层",
+      "path": "/material-textures/08-亚克力遮罩纹理"
+    },
+    {
+      "route": "music-sfx",
+      "type": "音效",
+      "title": "轻微按钮点击",
+      "desc": "用于网页交互、卡片展开、菜单选择。",
+      "format": "WAV",
+      "usage": "UI反馈",
+      "path": "/music-sfx/01-轻微按钮点击"
+    },
+    {
+      "route": "music-sfx",
+      "type": "音效",
+      "title": "柔和转场呼吸",
+      "desc": "页面切换、封面弹起、标题出现时使用。",
+      "format": "WAV",
+      "usage": "动效转场",
+      "path": "/music-sfx/02-柔和转场呼吸"
+    },
+    {
+      "route": "music-sfx",
+      "type": "音效",
+      "title": "玻璃轻触声",
+      "desc": "适合磨砂玻璃导航、卡片悬浮和透明按钮。",
+      "format": "WAV",
+      "usage": "材质反馈",
+      "path": "/music-sfx/03-玻璃轻触声"
+    },
+    {
+      "route": "music-sfx",
+      "type": "环境",
+      "title": "低频环境铺底",
+      "desc": "安静、克制、无旋律抢戏，适合网页背景视频。",
+      "format": "MP3",
+      "usage": "氛围铺底",
+      "path": "/music-sfx/04-低频环境铺底"
+    },
+    {
+      "route": "music-sfx",
+      "type": "音乐",
+      "title": "发布会开场音乐",
+      "desc": "节奏渐进，适合品牌开场和主标题出现。",
+      "format": "MP3",
+      "usage": "活动开场",
+      "path": "/music-sfx/05-发布会开场音乐"
+    },
+    {
+      "route": "music-sfx",
+      "type": "音乐",
+      "title": "AI科普视频配乐",
+      "desc": "轻快但克制，适合知识解释和技术演示。",
+      "format": "MP3",
+      "usage": "科普内容",
+      "path": "/music-sfx/06-AI科普视频配乐"
+    },
+    {
+      "route": "more-resources",
+      "type": "资源",
+      "title": "字体资源入口",
+      "desc": "统一收集网站、PPT、封面、Logo可用字体。",
+      "format": "URL / OTF",
+      "usage": "视觉系统",
+      "path": "/more-resources/01-字体资源入口"
+    },
+    {
+      "route": "more-resources",
+      "type": "插件",
+      "title": "插件工具入口",
+      "desc": "收集剪辑、设计、转写、网页开发相关插件。",
+      "format": "URL",
+      "usage": "工具扩展",
+      "path": "/more-resources/02-插件工具入口"
+    },
+    {
+      "route": "more-resources",
+      "type": "案例",
+      "title": "案例参考入口",
+      "desc": "保存可复刻的网站、动效、图文排版与视频结构。",
+      "format": "URL / HTML",
+      "usage": "灵感参考",
+      "path": "/more-resources/03-案例参考入口"
+    },
+    {
+      "route": "more-resources",
+      "type": "规范",
+      "title": "命名规范入口",
+      "desc": "文件命名、版本命名、导出规格和素材路径标准。",
+      "format": "MD",
+      "usage": "团队协作",
+      "path": "/more-resources/04-命名规范入口"
+    }
+  ]
+}
